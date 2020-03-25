@@ -1,0 +1,9 @@
+To run the code:
+
+task 1: python main.py 1
+
+task 2: python main.py 2
+
+task 3a: python main.py 3a (without data augmentation)
+
+task 3b: python main.py 3b (with data augmentation)
