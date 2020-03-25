@@ -1,0 +1,5 @@
+To run the different models:
+
+cnn: python main.py cnn
+
+densenet: python main.py densenet
